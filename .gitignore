@@ -1,0 +1,7 @@
+node_modules/
+bower_components/
+dist/
+build/
+*.swp
+*.swo
+npm-debug.log
