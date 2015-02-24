@@ -1,6 +1,6 @@
 # d3 fun (damentals) 
 
-Modest chronicle of d3 beginnings.
+Chronicle of modest d3 beginnings.
 
 ## Features
  - static content example directories compile
