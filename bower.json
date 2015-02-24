@@ -10,8 +10,8 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "d3": "~3.5.5"
   }
 }
