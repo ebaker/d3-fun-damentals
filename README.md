@@ -8,6 +8,9 @@ Chronicle of modest d3 beginnings.
 
 ## Examples
  - css bar chart
+ - svg bar chart (with axis)
+ - pie chart
+
 
 ## Quickstart
 
@@ -35,4 +38,5 @@ d3-fun-damentals
     ├── index.jade
     └── style.styl
 ```
+
 
